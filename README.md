@@ -71,5 +71,5 @@ simple shell easy!
 (your_terminal)$
 ```
 #### Authors
-1. [Dennis Wanjeri](https://github.com/DennisWanjeri)
-2. [Jane Ng'ethe](https://github.com/Janengethe)
+1. [Cliffort Mmakola](https://github.com/CliffGit08))
+2. 
