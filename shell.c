@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  *main - Displays a prompt and waits for the user to enter a command
