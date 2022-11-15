@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  *free_args - frees a two dimensional string
  *@args:array of pointers to strings
