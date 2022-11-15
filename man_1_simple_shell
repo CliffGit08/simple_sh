@@ -1,4 +1,4 @@
-.TH SIMPLE_SHELL 1 "14 April 2021" "1.0" "custom man page"
+.TH SIMPLE_SHELL 1 "15 November 2022" "1.0" "custom man page"
 .SH NAME
 .B Simple Shell
 - command language interpreter
